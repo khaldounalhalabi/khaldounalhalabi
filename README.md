@@ -15,7 +15,7 @@ I'm a passionate Software Engineer with a degree from Damascus University. My ex
   C++, JavaScript, PHP, TypeScript
 
 - **Frontend Technologies:**  
-  HTML5, CSS3, React, Next.js, JQuery, TailwindCSS, Bootstrap
+  HTML5, CSS3, React, Next.js, JQuery, TailwindCSS, Bootstrap , React Native
 
 - **Backend & Tools:**  
   Node.js, Laravel, MySQL, PostgreSQL, Git, Linux
